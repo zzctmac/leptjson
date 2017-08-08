@@ -1,4 +1,4 @@
 build/
-*/leptjson_test.dir/
-*/leptjson.dir/
-*/Win32/
+leptjson_test.dir/
+leptjson.dir/
+Win32/
