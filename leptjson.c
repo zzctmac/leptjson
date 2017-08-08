@@ -1,5 +1,6 @@
 #include "leptjson.h"
 #include <assert.h>
+#include <stddef.h>
 
 typedef struct {
 	const char* json;
